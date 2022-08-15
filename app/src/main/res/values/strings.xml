@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">MiPrimeraApp</string>
+    <string name="app_name">MiFirstApp</string>
     <string name="MensajeDeBienvenida">Welcome!</string>
+    <string name="descripcionImage">TuxImageLinux</string>
 </resources>
